@@ -325,6 +325,16 @@
       "name": "Virgin Active"
     }
   },
+  "leisure/fitness_centre|Xercise4Less": {
+    "tags": {
+      "countryCodes": ["gb"],
+      "matchNames": ["Exercise4less"],
+      "brand": "Xercise4Less",
+      "brand:wikidata": "Q79244612",
+      "leisure": "fitness_centre",
+      "name": "Xercise4Less"
+    }
+  },
   "leisure/fitness_centre|エニタイムフィットネス": {
     "countryCodes": ["jp"],
     "tags": {
